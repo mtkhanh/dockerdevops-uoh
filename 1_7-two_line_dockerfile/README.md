@@ -1,0 +1,1 @@
+To build and run the container. Run **exec_command.sh**
